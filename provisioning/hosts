@@ -1,0 +1,7 @@
+localhost
+
+[coordinators]
+;coordinator[1:9].local
+
+[datanodes]
+;datanode[1:9].local
